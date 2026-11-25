@@ -46,7 +46,7 @@
 
 <!-- Centerpiece Image: Human x AI (Ganti link src dengan hasil drag & drop gambar kamu di GitHub) -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/YudsX/YudsX/main/assets/animated.gif" width="600" alt="animated banner"/> alt="Human and AI Connection" />
+<img src="https://raw.githubusercontent.com/YudsX/YudsX/main/assets/animated.gif" width="600" alt="animated banner"/>
   <br/>
   <sub><i>"Bridging human logic and machine intelligence."</i></sub>
 </div>
