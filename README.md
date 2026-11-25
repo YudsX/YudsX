@@ -5,7 +5,7 @@
 
 <!-- Hero Image: Deftones Ohms Aesthetic -->
 <div align="center">
-  <img width="85%" src="./assets/ohms-eyes.jpg" alt="Ohms Aesthetic Banner" />
+  <img width="85%"  src="https://github.com/user-attachments/assets/32983d37-7d95-4fb9-adc7-30a4a1e46be0" alt="Ohms Aesthetic Banner" />
 </div>
 
 <br />
@@ -55,7 +55,7 @@
 
 <!-- Centerpiece Image: Human x AI (ASCII Hands) -->
 <div align="center">
-  <img width="90%" src="./assets/ascii-hands.jpg" alt="Human and AI Connection" />
+  <img width="90%" src="https://github.com/user-attachments/assets/35b2a4b2-5c0d-4c46-87be-2131dcaa5dc9" alt="Human and AI Connection" />
   <br/>
   <sub><i>"Bridging human logic and machine intelligence."</i></sub>
 </div>
