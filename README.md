@@ -87,33 +87,6 @@
 
 ---
 
-<!-- Animated Section Title: Projects -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1500&color=E5E7EB&center=true&vCenter=true&width=450&height=40&lines=%3E+git+log+--featured;%3E+Repositories+%26+Experiments" alt="Projects" />
-</div>
-
-<div align="center">
-
-<a href="https://github.com/YudsX/Py_DSA_Learn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YudsX&repo=Py_DSA_Learn&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&border_color=30363d" alt="Py_DSA_Learn" />
-</a>
-<a href="https://github.com/YudsX/Py_learn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YudsX&repo=Py_learn&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&border_color=30363d" alt="Py_learn" />
-</a>
-
-<br />
-
-<a href="https://github.com/YudsX/KasKita">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YudsX&repo=KasKita&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&border_color=30363d" alt="KasKita" />
-</a>
-<a href="https://github.com/YudsX/PHP_Learn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YudsX&repo=PHP_Learn&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&border_color=30363d" alt="PHP_Learn" />
-</a>
-
-</div>
-
----
-
 <!-- Animated Section Title: Analytics -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1500&color=E5E7EB&center=true&vCenter=true&width=450&height=40&lines=%3E+github+stats+--live;%3E+Activity+%26+Contributions" alt="Analytics" />
