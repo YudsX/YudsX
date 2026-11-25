@@ -1,12 +1,12 @@
 <!-- Animated Glitch/Twinkling Monochrome Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1f2937,100:000000&height=180&section=header&text=Y%20U%20D%20S%20X&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=45" alt="Header Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1f2937,100:000000&height=150&section=header&text=Y%20U%20D%20S%20X&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=45" alt="Header Banner" />
 </div>
 
-<!-- Animated Typing Intro -->
+<!-- Animated Typing Intro (1 baris bergantian, rapat ke atas) -->
 <div align="center">
   <a href="https://github.com/YudsX">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Wirayudhabuana+%2F%2F+YudsX;Computer+Science+Student+%E2%80%A2+AI+%26+ML+Enthusiast;Building+Data-Driven+%26+Intelligent+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=Wirayudhabuana+%2F%2F+YudsX;Computer+Science+Student+%E2%80%A2+AI+%26+ML+Enthusiast;Building+Data-Driven+%26+Intelligent+Systems" alt="Typing SVG" />
   </a>
 </div>
 
@@ -46,9 +46,9 @@
 
 ---
 
-<!-- Centerpiece Image: Human x AI (ASCII Hands) -->
+<!-- Centerpiece Image: Human x AI (Ganti link src dengan hasil drag & drop gambar kamu di GitHub) -->
 <div align="center">
-  <img width="90%" src="https://github.com/user-attachments/assets/35b2a4b2-5c0d-4c46-87be-2131dcaa5dc9" alt="Human and AI Connection" />
+  <img width="85%" src="GANTI_DENGAN_LINK_GAMBAR_TANGAN_ASCII" alt="Human and AI Connection" />
   <br/>
   <sub><i>"Bridging human logic and machine intelligence."</i></sub>
 </div>
