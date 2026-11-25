@@ -48,7 +48,7 @@
 
 <!-- Centerpiece Image: Human x AI (Ganti link src dengan hasil drag & drop gambar kamu di GitHub) -->
 <div align="center">
-  <img width="85%" src="GANTI_DENGAN_LINK_GAMBAR_TANGAN_ASCII" alt="Human and AI Connection" />
+  <img width="85%" src="https://github.com/user-attachments/assets/a711a2ef-e67b-48e9-a819-1bf2db8068b9" alt="Human and AI Connection" />
   <br/>
   <sub><i>"Bridging human logic and machine intelligence."</i></sub>
 </div>
