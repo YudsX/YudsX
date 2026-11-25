@@ -1,11 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YudsX/YudsX/main/assets/animated.gif" width="600" alt="animated banner"/>
-
-# Hi, I'm Yuds 👋
-
-</div>
-
 <!-- Animated Glitch/Twinkling Monochrome Header -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1f2937,100:000000&height=150&section=header&text=Y%20U%20D%20S%20X&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=45" alt="Header Banner" />
@@ -52,11 +44,9 @@
 
 </div>
 
----
-
 <!-- Centerpiece Image: Human x AI (Ganti link src dengan hasil drag & drop gambar kamu di GitHub) -->
 <div align="center">
-  <img width="85%" src="https://github.com/user-attachments/assets/a711a2ef-e67b-48e9-a819-1bf2db8068b9" alt="Human and AI Connection" />
+<img src="https://raw.githubusercontent.com/YudsX/YudsX/main/assets/animated.gif" width="600" alt="animated banner"/> alt="Human and AI Connection" />
   <br/>
   <sub><i>"Bridging human logic and machine intelligence."</i></sub>
 </div>
