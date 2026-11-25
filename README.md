@@ -3,13 +3,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1f2937,100:000000&height=180&section=header&text=Y%20U%20D%20S%20X&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=45" alt="Header Banner" />
 </div>
 
-<!-- Hero Image: Deftones Ohms Aesthetic -->
-<div align="center">
-  <img width="85%"  src="https://github.com/user-attachments/assets/32983d37-7d95-4fb9-adc7-30a4a1e46be0" alt="Ohms Aesthetic Banner" />
-</div>
-
-<br />
-
 <!-- Animated Typing Intro -->
 <div align="center">
   <a href="https://github.com/YudsX">
