@@ -1,6 +1,6 @@
 <!-- Animated Glitch/Twinkling Monochrome Header -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1f2937,100:000000&height=180&section=header&text=Y U D S X&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=45" alt="Header Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1f2937,100:000000&height=180&section=header&text=Y%20U%20D%20S%20X&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=45" alt="Header Banner" />
 </div>
 
 <!-- Hero Image: Deftones Ohms Aesthetic -->
