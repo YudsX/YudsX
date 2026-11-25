@@ -6,7 +6,15 @@
 
 *Learning, building, and improving one commit at a time.*
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:1e3a8a&height=150&section=header&text=YudsX&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%" alt="YudsX profile banner" />
+
+<div align="center">
+
+<a href="https://github.com/YudsX">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&height=80&lines=YudsX;Student+Developer;Learning+%26+Building;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</a>
+
+</div>
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-YudsX-181717?style=for-the-badge&logo=github)](https://github.com/YudsX)
 [![Instagram](https://img.shields.io/badge/Instagram-yuddhaptra-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuddhaptra/)
